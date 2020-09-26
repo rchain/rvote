@@ -1,4 +1,4 @@
-# rv2020 - RChain Voting
+# rvote - RChain Voting
 
 Exploration into an on-chain record of RChain Cooperative business.
 
