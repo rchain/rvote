@@ -12,11 +12,11 @@ In the meantime, you can practice using RVote with a dummy ballot here: \
 
 Please complete your vote prior to midnight (PST) 10/24, and then join us on Saturday, October 24th at 7pm (PST) for RChain Cooperative's 2020 *online* Annual Member Meeting, where we will review the vote results.
 
-1. [Attend the Annual Meeting](#Attend-the-Annual-Meeting)
-2. [Register to Vote](#Register-to-Vote)
+1. [Attend the Annual Meeting](https://vote.rchain.coop/#attend-the-annual-meeting)
+2. [Register to Vote](https://vote.rchain.coop/#register-to-vote)
 3. [Vote Online](https://vote.rchain.coop) (10/21 - 10/23)
-4. [Candidate Statements](#Candidate-Statements)
-5. [Ballot](#Ballot)
+4. [Candidate Statements](https://vote.rchain.coop/#candidate-statements)
+5. [Ballot](https://vote.rchain.coop/#ballot)
 
 ## Attend the Annual Meeting
 
