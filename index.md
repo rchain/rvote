@@ -112,5 +112,8 @@ I hope you will vote me to be board director to serve in Rchain Cooperative. I l
 ## Additional Help
 For additional help, check the recent [blog.rchain.coop](https://blog.rchain.coop/2020/10/14/voting-on-rchain/) article and video, or reach out to Community members in the [#rhoc2rev](https://discord.com/channels/375365542359465989/454113117257859073) channel of the Co-op’s “Pub-RChain” Discord Guild.
 
+---
 
-
+<sub><sup>copyright © 2020 RChain Cooperative All rights reserved \
+RChain is a registered trademark of RChain Cooperative \
+[Privacy terms and conditions](https://github.com/rchain/legaldocs/blob/master/Form%20of%20Privacy%20Policy.pdf)</sup></sub>
