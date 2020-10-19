@@ -114,6 +114,6 @@ For additional help, check the recent [blog.rchain.coop](https://blog.rchain.coo
 
 ---
 
-<sub><sup>copyright © 2020 RChain Cooperative All rights reserved \
-RChain is a registered trademark of RChain Cooperative \
+<sub><sup>copyright © 2020 RChain Cooperative All rights reserved  
+RChain is a registered trademark of RChain Cooperative  
 [Privacy terms and conditions](https://github.com/rchain/legaldocs/blob/master/Form%20of%20Privacy%20Policy.pdf)</sup></sub>
