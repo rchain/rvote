@@ -12,7 +12,7 @@ import {
   rhoExprToJS,
 } from '../vendor/rnode-client-js/src/web/rnode-actions';
 import {
-  testNet,
+  mainNet,
   getNodeUrls,
 } from '../vendor/rnode-client-js/src/rchain-networks';
 import { getAddrFromEth } from '../vendor/rnode-client-js/src/rev-address';
@@ -205,8 +205,8 @@ export function buildUI({ ethereumAddress, getElementById, fetch, now }) {
     state.events.filter(({ label }) => label === target).length > 0;
 
   function getQuestions() {
-    const misc = { name: 'testNet', http: null, httpsAdmin: null }; // typechecker says we need these; runtime says we don't
-    const node = getNodeUrls({ ...misc, ...testNet.readOnlys[0] });
+    const misc = { name: 'mainNet', http: null, httpsAdmin: null }; // typechecker says we need these; runtime says we don't
+    const node = getNodeUrls({ ...misc, ...mainNet.readOnlys[0] });
     const { rnodeHttp } = rnodeWeb;
     return ballotVoterLookup(
       state.agenda,
@@ -433,8 +433,8 @@ export function lookup_ballot_user_rho(acct, balloturi, votersuri) {
  * @returns { Promise<{ args: any[], cost: number, rawData: any }> }
  */
 function runDeploy(code, { account, phloLimit }, { rnodeWeb, log }) {
-  const misc = { name: 'testNet', http: null, httpsAdmin: null }; // typechecker says we need these; runtime says we don't
-  const node = getNodeUrls({ ...misc, ...testNet.hosts[0] }); // TODO: get next validator?
+  const misc = { name: 'mainNet', http: null, httpsAdmin: null }; // typechecker says we need these; runtime says we don't
+  const node = getNodeUrls({ ...misc, ...mainNet.hosts[0] }); // TODO: get next validator?
 
   // appSendDeploy has a strange API: only sends the returned data to the log.
   // at least the log is handled with ocap discipline so we can interpose what we need!
