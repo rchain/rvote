@@ -20,7 +20,7 @@ import { getAddrFromEth } from '../vendor/rnode-client-js/src/rev-address';
 import { transferMulti_rho } from '../rho/transfer-multi';
 
 const VOTERS_URI =
-  'rho:id:y86qckr8pfanm7kbmd36uricdaiifdtr165hgi4a6tsncsyehqqqb6';
+  'rho:id:admzpibb3gxxp18idri7h6eneg4io6myfmcmjhufc6asy73bgrojop';
 
 const DUST = 1;
 const REV = 1e8;
