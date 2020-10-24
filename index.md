@@ -20,11 +20,11 @@ Please complete your vote prior to midnight (PDT) 10/24, and then join us on Sat
 ## Attend the Annual Meeting
 
 #### Agenda
-- Vote Results (Greg Meredith)\
-- Financial Report (Jackie Silbernagel)\
-- State of the Cooperative (Greg Meredith)\
-- Liquid Democracy (Dan Connolly, Jim Whitescarver)\
-- Open Session\
+- Vote Results (Greg Meredith)
+- Financial Report (Jackie Silbernagel)
+- State of the Cooperative (Greg Meredith)
+- Liquid Democracy (Dan Connolly, Jim Whitescarver)
+- Open Session
 
 Join the Meeting Oct 24, 2020 7:00 PM PDT\
 A Zoom link has been posted on the member's [#agm-2020](https://discord.com/channels/375365542359465989/748649980201271416/769587880346910730) Discord channel
