@@ -10,7 +10,7 @@ voters=${2-voters}
 sort -o $voters $voters
 starttime=${3-1603303199000} # rchain 2020 AGM starttime
 #endtime=${4-$(date +%s)000} # current timestamp default = seconds since epic times 1000
-endtime=${4-1603522799000} # endtime of rchain 2020 AGM
+endtime=${4-1603526399000} # endtime of rchain 2020 AGM
 cond="select((.deploy.timestamp < $endtime) and .deploy.timestamp > $starttime)"
 if [ "$save" ]; then mkdir saved/"$save"; fi
 server=${5-https://status.rchain.coop}
